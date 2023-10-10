@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Random Number</string>
+    <string name="greet">Hello first fragment</string>
+    <string name="random_button_text">Random</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">My First App</string>
+    <string name="toast_button_text">Toast</string>
+    <string name="count_button_text">count</string>
+</resources>
